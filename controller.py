@@ -1,4 +1,4 @@
-#2022.05.14 封裝ver.3.1 youtube更動, pytube改版, 新增網址多餘參數去除, 使用pytube內建includes_audio_track檢測音訊串流
+#2022.05.14 <封裝ver.3.1 youtube更動, pytube改版, 新增網址多餘參數去除, 使用pytube內建includes_audio_track檢測音訊串流>
 from PyQt5.QtWidgets import QMainWindow, QFileDialog
 from pytube import YouTube 
 import os, re, subprocess, time
